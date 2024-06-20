@@ -1,4 +1,4 @@
-# Personal Loan Classification Task 
+# Predicting Housing Prices with Machine Learning 
 
 This is  a classification task where the goal is to classify the Universal banks ' personal loan offers is accepted by customers.
 
