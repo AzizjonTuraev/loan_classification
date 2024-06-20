@@ -1,4 +1,4 @@
-# Predicting Housing Prices with Machine Learning 
+# Predicting Personal Loan Approval with Machine Learning 
 
 This is  a classification task where the goal is to classify the Universal banks ' personal loan offers is accepted by customers.
 
