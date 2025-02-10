@@ -16,7 +16,7 @@ __data_columns = None
 __model = None
 __scaler = None
 
-def get_estimated_price(age, experience, income, family, CCAvg,
+def get_estimated_score(age, experience, income, family, CCAvg,
                         mortgage, securities_acc, cd_acc, online,
                         credit_card, zip_code, graduation_level):
     try:
